@@ -3,6 +3,6 @@
 
 source ./config.env
 
-echo "Starting $APP_NAME..."
+echo "Starting submission_reminder_NkusiDan..."
 
 bash ./reminder.sh
