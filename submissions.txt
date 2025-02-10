@@ -4,3 +4,8 @@ Nshuti, Shell Navigation, not submitted
 Gis, Git, submitted
 Divine, Shell Navigation, not submitted
 Anissa, Shell Basics, submitted
+Gift, Shell Navigation, submitted
+Keza, Git, not submitted
+Liam, Shell Navigation, submitted
+David, Shell Basics, not submitted
+Victor, Shell Basics, not submitted
