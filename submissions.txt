@@ -1,0 +1,6 @@
+# Sample submissions records
+student, assignment, submission status
+Nshuti, Shell Navigation, not submitted
+Gis, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
